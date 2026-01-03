@@ -17,9 +17,9 @@ Task Service permite:
 
 ## 📚 Documentación
 Ver carpeta `Documentación/`:
-- `ARCHITECTURE.md`
-- `DATA_MODEL.md`
-- `USER_GUIDE.md`
+- `architecture.md`
+- `data_model.md`
+- `user_guide.md`
 
 ## ⚙️ Requisitos
 - Python 3.10+
